@@ -1,3 +1,4 @@
 this is a sample file
 this is sushma line
 this is another line
+this is example to testing the merge confilts on git
