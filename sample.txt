@@ -3,3 +3,5 @@ this is sushma line
 this is another line
 this is example to testing the merge confilts on git
 this is the for testing the lines in the sample file
+this is for testing the file
+to get the head details
