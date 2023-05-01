@@ -1,6 +1,2 @@
  this is a example file
 testing for another file
-asdf
-asfd
-asfd
-
